@@ -23,6 +23,8 @@ p3
 
 [jmu](https://www.jmu.edu)
 
+![JmuPicture](https://www.jmu.edu/_images/_story-rotator/full-width-images/327044-rodrigo-morales-1032-2000x666.jpg)
+
 ## 2nd level heading
 
 ### 3rd level heading
